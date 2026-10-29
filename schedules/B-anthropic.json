@@ -1,0 +1,6002 @@
+[
+  {
+    "slot_id": "B-anthropic-00001",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00002",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00003",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00004",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00005",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00006",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00007",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00008",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00009",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00010",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00011",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00012",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00013",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00014",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00015",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00016",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00017",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00018",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00019",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00020",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00021",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00022",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00023",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00024",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00025",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00026",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00027",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00028",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00029",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00030",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00031",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00032",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00033",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00034",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00035",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00036",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00037",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00038",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00039",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00040",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00041",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00042",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00043",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00044",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00045",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00046",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00047",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00048",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00049",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00050",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00051",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00052",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00053",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00054",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00055",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00056",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00057",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00058",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00059",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00060",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00061",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00062",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00063",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00064",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00065",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00066",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00067",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00068",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00069",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00070",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00071",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00072",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00073",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00074",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00075",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00076",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00077",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00078",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00079",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00080",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00081",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00082",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00083",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00084",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00085",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00086",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00087",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00088",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00089",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00090",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00091",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00092",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00093",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00094",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00095",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00096",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00097",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00098",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00099",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00100",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00101",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00102",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00103",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00104",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00105",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00106",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00107",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00108",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00109",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00110",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00111",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00112",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00113",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00114",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00115",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00116",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00117",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00118",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00119",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00120",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00121",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00122",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00123",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00124",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00125",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00126",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00127",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00128",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00129",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00130",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00131",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00132",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00133",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00134",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00135",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00136",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00137",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00138",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00139",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00140",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00141",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00142",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00143",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00144",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00145",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00146",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00147",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00148",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00149",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00150",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00151",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00152",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00153",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00154",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00155",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00156",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00157",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00158",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00159",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00160",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00161",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00162",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00163",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00164",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00165",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00166",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00167",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00168",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00169",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00170",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00171",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00172",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00173",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00174",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00175",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00176",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00177",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00178",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00179",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00180",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00181",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00182",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00183",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00184",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00185",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00186",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00187",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00188",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00189",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00190",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00191",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00192",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00193",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00194",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00195",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00196",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00197",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00198",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00199",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00200",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00201",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00202",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00203",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00204",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00205",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00206",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00207",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00208",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00209",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00210",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00211",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00212",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00213",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00214",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00215",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00216",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00217",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00218",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00219",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00220",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00221",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00222",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00223",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00224",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00225",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00226",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00227",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00228",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00229",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00230",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00231",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00232",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00233",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00234",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00235",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00236",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00237",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00238",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00239",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00240",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00241",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00242",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00243",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00244",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00245",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00246",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00247",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00248",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00249",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00250",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00251",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00252",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00253",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00254",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00255",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00256",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00257",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00258",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00259",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00260",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00261",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00262",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00263",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00264",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00265",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00266",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00267",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00268",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00269",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00270",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00271",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00272",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00273",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00274",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00275",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00276",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00277",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00278",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00279",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00280",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00281",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00282",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00283",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00284",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00285",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00286",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00287",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00288",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00289",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00290",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00291",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00292",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00293",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00294",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00295",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00296",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00297",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00298",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00299",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00300",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00301",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00302",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00303",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00304",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00305",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00306",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00307",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00308",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00309",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00310",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00311",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00312",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00313",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00314",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00315",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00316",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00317",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00318",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00319",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00320",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00321",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00322",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00323",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00324",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00325",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00326",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00327",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00328",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00329",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00330",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00331",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00332",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00333",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00334",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00335",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00336",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00337",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00338",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00339",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00340",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00341",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00342",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00343",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00344",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00345",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00346",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00347",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00348",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00349",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00350",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00351",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00352",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00353",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00354",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00355",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00356",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00357",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00358",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00359",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00360",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00361",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00362",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00363",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00364",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00365",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00366",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00367",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00368",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00369",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00370",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00371",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00372",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00373",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00374",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00375",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00376",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00377",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00378",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00379",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00380",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00381",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00382",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00383",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00384",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00385",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00386",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00387",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00388",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00389",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00390",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00391",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00392",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00393",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00394",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00395",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00396",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00397",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00398",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00399",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00400",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00401",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00402",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00403",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00404",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00405",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00406",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00407",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00408",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00409",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00410",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00411",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00412",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00413",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00414",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00415",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00416",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00417",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00418",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00419",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00420",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00421",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00422",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00423",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00424",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00425",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00426",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00427",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00428",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00429",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00430",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00431",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00432",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00433",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00434",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00435",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00436",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00437",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00438",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00439",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00440",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00441",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00442",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00443",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00444",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00445",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00446",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00447",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00448",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00449",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00450",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00451",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00452",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00453",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00454",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00455",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00456",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00457",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00458",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00459",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00460",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00461",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00462",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00463",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00464",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00465",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00466",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00467",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00468",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00469",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00470",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00471",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00472",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00473",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00474",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00475",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00476",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00477",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00478",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00479",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00480",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00481",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00482",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00483",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00484",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00485",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00486",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00487",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00488",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00489",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00490",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00491",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00492",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00493",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00494",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00495",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00496",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00497",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00498",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00499",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00500",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00501",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00502",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00503",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00504",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00505",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00506",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00507",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00508",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00509",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00510",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00511",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00512",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00513",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00514",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00515",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00516",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00517",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00518",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00519",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00520",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00521",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00522",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00523",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00524",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00525",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00526",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00527",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00528",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00529",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00530",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00531",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00532",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00533",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00534",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00535",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "H",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "2093bdb538cc28436777a649b8c2522c4efb6236e75c4d1c2deed738f899045a"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00536",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00537",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00538",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00539",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00540",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00541",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00542",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00543",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00544",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00545",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00546",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00547",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00548",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00549",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00550",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00551",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00552",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00553",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00554",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00555",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00556",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00557",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00558",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00559",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00560",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00561",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00562",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00563",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00564",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00565",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00566",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "E",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "5dd2a907be09939db31e49761adf11d1862dcf399283015b19129d4a07d13a29"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00567",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00568",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00569",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00570",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00571",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00572",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00573",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00574",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00575",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00576",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00577",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00578",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "G",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "6c2a4d686e142830d31f7d77ccef3c30122878d31a4455c5827cfed31c539593"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00579",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00580",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "E",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "80b3591bcea7f61d90de94ba3e15e07d7de66c790d9ea26e6d9c8c647a7080dc"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00581",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00582",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00583",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00584",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00585",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "F",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "d34f77a1285e03aa4fd75a88ee490440033220ff623ee4153e5b10c1d961c330"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00586",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00587",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00588",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00589",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00590",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00591",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "G",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "d32914a4f309384b40acea5abfb8698b15c2a02be1442e9a7ebbe21836914a9e"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00592",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "H",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "1502982bb4acc211663dfae1b9c62028223cab843da174539ba5ae7b160629d8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00593",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00594",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00595",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "H",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "c34031d8b47eee8092123a46a81c5d94abd4141f208dce0aaf38f3e735578e94"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00596",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "E",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "f8e7d0977040800441c6df99630771275217b8efcd4f72b01f04b9acefd5d531"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00597",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "cell": "G",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "56dcfbc1ef63185313fd440df15e61978fcbc48654c30f833d02ee154dfa66fd"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00598",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "cell": "F",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "700690fbf523fef6501843a1b626085cf68297243e5f0beb3db273493320f03d"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00599",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  },
+  {
+    "slot_id": "B-anthropic-00600",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "cell": "F",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "2ab9190fda26319ba772a65096abfcecd921d4e49b91a54e4d4efdee3c6711c8"
+    }
+  }
+]

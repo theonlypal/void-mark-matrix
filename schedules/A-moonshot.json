@@ -1,0 +1,2402 @@
+[
+  {
+    "slot_id": "A-moonshot-00001",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00002",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00003",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00004",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00005",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00006",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00007",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00008",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00009",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00010",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00011",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00012",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00013",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00014",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00015",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00016",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00017",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00018",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00019",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00020",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00021",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00022",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00023",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00024",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00025",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00026",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00027",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00028",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00029",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00030",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00031",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00032",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00033",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00034",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00035",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00036",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00037",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00038",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00039",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00040",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00041",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00042",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00043",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00044",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00045",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00046",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00047",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00048",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00049",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00050",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00051",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00052",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00053",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00054",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00055",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00056",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00057",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00058",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00059",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00060",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00061",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00062",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00063",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00064",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00065",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00066",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00067",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00068",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00069",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00070",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00071",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00072",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00073",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00074",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00075",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00076",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00077",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00078",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00079",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00080",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00081",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00082",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00083",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00084",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00085",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00086",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00087",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00088",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00089",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00090",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00091",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00092",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00093",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00094",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00095",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00096",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00097",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00098",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00099",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00100",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00101",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00102",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00103",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00104",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00105",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00106",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00107",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00108",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00109",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00110",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00111",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00112",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00113",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00114",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00115",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00116",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00117",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00118",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00119",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00120",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00121",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00122",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00123",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00124",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00125",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00126",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00127",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00128",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00129",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00130",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00131",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00132",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00133",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00134",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00135",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00136",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00137",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00138",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00139",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00140",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00141",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00142",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00143",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00144",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00145",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00146",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00147",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00148",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00149",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00150",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00151",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00152",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00153",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00154",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00155",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00156",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00157",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00158",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00159",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00160",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00161",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00162",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00163",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00164",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00165",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00166",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00167",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00168",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00169",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00170",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00171",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00172",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00173",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00174",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00175",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00176",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00177",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00178",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00179",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00180",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00181",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00182",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00183",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00184",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00185",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00186",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00187",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00188",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00189",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00190",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00191",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00192",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00193",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00194",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00195",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00196",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00197",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00198",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00199",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00200",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00201",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00202",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00203",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00204",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00205",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00206",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00207",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00208",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00209",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00210",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00211",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00212",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00213",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00214",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00215",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00216",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00217",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00218",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00219",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00220",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00221",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00222",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a cat.",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "c22cf4cba37445d1aeefabb551c1aeb87eb5cebd2bce3902f9180b1e9bf959d0"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00223",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00224",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00225",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00226",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00227",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00228",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Say hello.",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "66c757ace9027bfd0f4a6d7471caed6300103232448074ab49a1b428f7aa3df1"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00229",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00230",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00231",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00232",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00233",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be nothing.",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "9a727323ce14d9402cf94142fbec48cf903cf8ea3956b4da40464b6db49abcd5"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00234",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00235",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be the null.",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "7e0f504d51d072c825618066046af16e44f852690dbb1796ea580d4c2cf1ef99"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00236",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be silence.",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "af901f1c3c46ed078bdd029cb3ae8793f5cd144dd48e3bfd6ee50979c05f8801"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00237",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be speech.",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "e9535f70a98dd5e0f280f2e6409aebaac3c80efda953824cf5e9865d87b49777"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00238",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be a value.",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "f8e3885d2af312d0a9ad2cf322df07e5cd71cbf54f41615eb374c86de9d38cb3"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00239",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  },
+  {
+    "slot_id": "A-moonshot-00240",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "input": "Be something.",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "29d114d40be658f4439f5f242c2923a166f9fcda87b4de857c3240fe147801f2"
+    }
+  }
+]

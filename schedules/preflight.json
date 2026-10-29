@@ -1,0 +1,254 @@
+[
+  {
+    "slot_id": "preflight-gpt-5.2-2025-12-11-A-t0",
+    "vendor": "openai",
+    "model": "gpt-5.2-2025-12-11",
+    "check": "A-t0",
+    "request_sha256": {
+      "omit": "b569b7cb9707684345931a61d01de92ae5124152b7b10fd3881481a9e57759c5"
+    }
+  },
+  {
+    "slot_id": "preflight-gpt-5.2-2025-12-11-A-omit",
+    "vendor": "openai",
+    "model": "gpt-5.2-2025-12-11",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "376b7765757422f45e40ab57a5f843aeb4931b7388c8a43e61f909ce6e4fc8a4"
+    }
+  },
+  {
+    "slot_id": "preflight-gpt-5.2-2025-12-11-B",
+    "vendor": "openai",
+    "model": "gpt-5.2-2025-12-11",
+    "check": "B",
+    "request_sha256": {
+      "omit": "56f6dc0bc10b0c64c0b04fce912fc49598645daed3aa391bf1440507a04d7002"
+    }
+  },
+  {
+    "slot_id": "preflight-gpt-5.4-2026-03-05-A-t0",
+    "vendor": "openai",
+    "model": "gpt-5.4-2026-03-05",
+    "check": "A-t0",
+    "request_sha256": {
+      "omit": "1fa5928dd47cd6f1730ca993e8962d4cabea8cf0793187bbbfea3f9896a23238"
+    }
+  },
+  {
+    "slot_id": "preflight-gpt-5.4-2026-03-05-A-omit",
+    "vendor": "openai",
+    "model": "gpt-5.4-2026-03-05",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "3c19c355c0a57ae35dc744410d13e3d404a73d5a66220b9ba19e92138d948ca6"
+    }
+  },
+  {
+    "slot_id": "preflight-gpt-5.4-2026-03-05-B",
+    "vendor": "openai",
+    "model": "gpt-5.4-2026-03-05",
+    "check": "B",
+    "request_sha256": {
+      "omit": "58acb30bbc4141b66a69d8c134330031b0be9d4b82ebcb886f6c129501db98bd"
+    }
+  },
+  {
+    "slot_id": "preflight-gpt-5.5-2026-04-23-A-t0",
+    "vendor": "openai",
+    "model": "gpt-5.5-2026-04-23",
+    "check": "A-t0",
+    "request_sha256": {
+      "omit": "13500a650b4887501c1f6374cdd4c37bd216183f81c9645cbdfb92dbc484df69"
+    }
+  },
+  {
+    "slot_id": "preflight-gpt-5.5-2026-04-23-A-omit",
+    "vendor": "openai",
+    "model": "gpt-5.5-2026-04-23",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "d8d46f750318ebaded866b258474d0125cbc1226be8cf0f34da2293c455d97cb"
+    }
+  },
+  {
+    "slot_id": "preflight-gpt-5.5-2026-04-23-B",
+    "vendor": "openai",
+    "model": "gpt-5.5-2026-04-23",
+    "check": "B",
+    "request_sha256": {
+      "omit": "6880742854c66869a4fc3c5106ba99f2bd84f4d3a0f56433441854a1616a906f"
+    }
+  },
+  {
+    "slot_id": "preflight-gpt-6-astra-A-omit",
+    "vendor": "openai",
+    "model": "gpt-6-astra",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "83b57c70ca16ee5c5f05b18d8cf668501af047c75aaab3cb28fd616672f45d2c"
+    }
+  },
+  {
+    "slot_id": "preflight-gpt-6-astra-B",
+    "vendor": "openai",
+    "model": "gpt-6-astra",
+    "check": "B",
+    "request_sha256": {
+      "omit": "bd8c0ce64b187478cd82ae76f878518aebca7885f35644a3e6b5b7abca104526"
+    }
+  },
+  {
+    "slot_id": "preflight-claude-opus-4-5-20251101-A-t0",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "check": "A-t0",
+    "request_sha256": {
+      "omit": "c3bdb6a62450e2c3545ef4f2ee35cd8ee9cf0b4b13710556907b4f9890520b41"
+    }
+  },
+  {
+    "slot_id": "preflight-claude-opus-4-5-20251101-A-omit",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "6466934c5fbd7ef0be7f65fbab0ec15b41de9d4a6bf0aacef5b568b723e34c6b"
+    }
+  },
+  {
+    "slot_id": "preflight-claude-opus-4-5-20251101-B",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-5-20251101",
+    "check": "B",
+    "request_sha256": {
+      "omit": "ae9d2d46113c44c1d55060c5fcb0cb2d4d522ffa8878db0a140fb33e7bef5af0"
+    }
+  },
+  {
+    "slot_id": "preflight-claude-opus-4-6-A-t0",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "check": "A-t0",
+    "request_sha256": {
+      "omit": "b2952ffecb9c1a3e9fe7aafcada5835b744009a7986b5b8bb7c2276394829f6c"
+    }
+  },
+  {
+    "slot_id": "preflight-claude-opus-4-6-A-omit",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "d09b4426502a65d268d50d08c52affed7d3e69ca283bf91631112e3cd88923cc"
+    }
+  },
+  {
+    "slot_id": "preflight-claude-opus-4-6-B",
+    "vendor": "anthropic",
+    "model": "claude-opus-4-6",
+    "check": "B",
+    "request_sha256": {
+      "omit": "0ff43b59bd559caafc598e92414ec6428e2d9425e52aa6ef93b77d30f21876ab"
+    }
+  },
+  {
+    "slot_id": "preflight-claude-fable-5-1-A-omit",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "43c3863e9295095e623ce0bbbf8ba38291cfc59d7fb6e286306f417493a5840f"
+    }
+  },
+  {
+    "slot_id": "preflight-claude-fable-5-1-B",
+    "vendor": "anthropic",
+    "model": "claude-fable-5-1",
+    "check": "B",
+    "request_sha256": {
+      "omit": "593698b211feb47e240d59869debe135eb2f07594c1ddead7ce81da766d1d192"
+    }
+  },
+  {
+    "slot_id": "preflight-gemini-3-flash-preview-A-t0",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "check": "A-t0",
+    "request_sha256": {
+      "omit": "0f2dcc8a59898b2fd8b3fa082815f885dca553faef8a15496c78f4e5e032f047"
+    }
+  },
+  {
+    "slot_id": "preflight-gemini-3-flash-preview-A-omit",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "6c3de0bc37dfa4fb5fd3d56c951079f34941dbadf448be5b346361be82aae86e"
+    }
+  },
+  {
+    "slot_id": "preflight-gemini-3-flash-preview-B",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "check": "B",
+    "request_sha256": {
+      "omit": "5a8f15188594140519237b5904f87f99ce312478ce61bba00bef8d822392d0bd"
+    }
+  },
+  {
+    "slot_id": "preflight-gemini-3.6-flash-A-omit",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "6c3de0bc37dfa4fb5fd3d56c951079f34941dbadf448be5b346361be82aae86e"
+    }
+  },
+  {
+    "slot_id": "preflight-gemini-3.6-flash-B",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "check": "B",
+    "request_sha256": {
+      "omit": "5a8f15188594140519237b5904f87f99ce312478ce61bba00bef8d822392d0bd"
+    }
+  },
+  {
+    "slot_id": "preflight-gemini-4-argon-A-omit",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "62194f650d471de479c9b43ee916b9a793ec608d8d2f1655e3df779c0ad71705"
+    }
+  },
+  {
+    "slot_id": "preflight-gemini-4-argon-B",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "check": "B",
+    "request_sha256": {
+      "omit": "91cf268316836ce3aa342c6c59fc28429536c023dd75a993ffb74bbff1b15c22"
+    }
+  },
+  {
+    "slot_id": "preflight-kimi-k3-A-omit",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "check": "A-omit",
+    "request_sha256": {
+      "omit": "b5b8368ba9a1b016d347cab4327fe14152c3d5fdcadabc85a4be2212653c94d0"
+    }
+  },
+  {
+    "slot_id": "preflight-kimi-k3-B",
+    "vendor": "moonshot",
+    "model": "kimi-k3",
+    "check": "B",
+    "request_sha256": {
+      "omit": "367927f133954182ca2e0cd071c2f1d98cf07c6190e5efd4513405bbb6d5c0a3"
+    }
+  }
+]

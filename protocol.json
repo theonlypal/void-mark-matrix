@@ -1,0 +1,1501 @@
+{
+  "title": "The Void and the Mark: Null Embodiment and Prerequisite Crossover Across Historical and Current Frontier Models",
+  "author": "Rayan Pal",
+  "frozen_tag": "v1.0.0",
+  "prereg": {
+    "path": "PREREG.md",
+    "canonical_sha256": "1ec804a62f01e163cc91dfed49929e4f884f0f7dcbc33d4e77acd17393a5c706",
+    "canonicalization": "UTF-8 text split on LF; at most one line fully matching DOI: https://doi\\.org/10\\.5281/zenodo\\.[0-9]+ is removed; remaining lines joined with LF; SHA-256 of the result"
+  },
+  "panel": "fixed selected panel; no dynamic discovery or substitution",
+  "vendors": {
+    "openai": {
+      "endpoint": "https://api.openai.com/v1/chat/completions",
+      "models": [
+        "gpt-5.2-2025-12-11",
+        "gpt-5.4-2026-03-05",
+        "gpt-5.5-2026-04-23",
+        "gpt-6-astra"
+      ],
+      "credential_env": "OPENAI_API_KEY",
+      "settings_sources": [
+        "https://developers.openai.com/api/docs/models/gpt-5.2",
+        "https://developers.openai.com/api/docs/models/gpt-5.4",
+        "https://developers.openai.com/api/docs/models/gpt-5.5",
+        "https://developers.openai.com/api/docs/models/gpt-6-astra",
+        "https://developers.openai.com/api/docs/guides/latest-model"
+      ],
+      "read_timeout_seconds": 600
+    },
+    "anthropic": {
+      "endpoint": "https://api.anthropic.com/v1/messages",
+      "models": [
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-6",
+        "claude-fable-5-1"
+      ],
+      "credential_env": "ANTHROPIC_API_KEY",
+      "settings_sources": [
+        "https://platform.claude.com/docs/en/models/fable-5-1/overview",
+        "https://platform.claude.com/docs/en/about-claude/models/choosing-a-model",
+        "https://platform.claude.com/docs/en/build-with-claude/thinking"
+      ],
+      "read_timeout_seconds": 600
+    },
+    "google": {
+      "endpoint": "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+      "models": [
+        "gemini-3-flash-preview",
+        "gemini-3.6-flash",
+        "gemini-4-argon"
+      ],
+      "credential_env": "GEMINI_API_KEY",
+      "settings_sources": [
+        "https://ai.google.dev/gemini-api/docs/models/gemini-4-argon",
+        "https://ai.google.dev/gemini-api/docs/latest-model",
+        "https://ai.google.dev/gemini-api/docs/generate-content/long-decode",
+        "https://ai.google.dev/gemini-api/docs/thinking",
+        "https://ai.google.dev/gemini-api/docs/generate-content/whats-new-gemini-3.5",
+        "https://ai.google.dev/gemini-api/docs/generate-content/whats-new-gemini-3.6",
+        "https://ai.google.dev/gemini-api/docs/deprecations"
+      ],
+      "read_timeout_seconds": 1200
+    },
+    "moonshot": {
+      "endpoint": "https://api.moonshot.ai/v1/chat/completions",
+      "models": [
+        "kimi-k3"
+      ],
+      "credential_env": "MOONSHOT_API_KEY",
+      "settings_sources": [
+        "https://platform.kimi.ai/docs/guide/kimi-k3-quickstart"
+      ],
+      "read_timeout_seconds": 600
+    }
+  },
+  "models": {
+    "gpt-5.2-2025-12-11": {
+      "vendor": "openai",
+      "identifier": "dated snapshot",
+      "temperature": "probe",
+      "reasoning": {
+        "reasoning_effort": "none"
+      },
+      "reasoning_note": "reasoning_effort none (supported: none, low, medium, high, xhigh; default none)",
+      "price_usd_per_mtok": {
+        "input": "1.75",
+        "input_ceiling": "1.75",
+        "output": "14",
+        "valid_through": null
+      },
+      "price_sources": [
+        "https://developers.openai.com/api/docs/models/gpt-5.2"
+      ]
+    },
+    "gpt-5.4-2026-03-05": {
+      "vendor": "openai",
+      "identifier": "dated snapshot",
+      "temperature": "probe",
+      "reasoning": {
+        "reasoning_effort": "none"
+      },
+      "reasoning_note": "reasoning_effort none (supported: none, low, medium, high, xhigh; default none)",
+      "price_usd_per_mtok": {
+        "input": "2.50",
+        "input_ceiling": "2.50",
+        "output": "15",
+        "valid_through": null
+      },
+      "price_sources": [
+        "https://developers.openai.com/api/docs/models/gpt-5.4"
+      ]
+    },
+    "gpt-5.5-2026-04-23": {
+      "vendor": "openai",
+      "identifier": "dated snapshot",
+      "temperature": "probe",
+      "reasoning": {
+        "reasoning_effort": "none"
+      },
+      "reasoning_note": "reasoning_effort none (supported: none, low, medium, high, xhigh; default medium)",
+      "price_usd_per_mtok": {
+        "input": "5",
+        "input_ceiling": "5",
+        "output": "30",
+        "valid_through": null
+      },
+      "price_sources": [
+        "https://developers.openai.com/api/docs/models/gpt-5.5"
+      ]
+    },
+    "gpt-6-astra": {
+      "vendor": "openai",
+      "identifier": "served identifier",
+      "temperature": "omit",
+      "reasoning": {
+        "reasoning_effort": "low"
+      },
+      "reasoning_note": "reasoning_effort low, the lowest supported value (supported: low, medium, high, xhigh, max; none unsupported); temperature unsupported when reasoning effort is not none",
+      "price_usd_per_mtok": {
+        "input": "10",
+        "input_ceiling": "25",
+        "output": "50",
+        "valid_through": null
+      },
+      "price_sources": [
+        "https://developers.openai.com/api/docs/pricing",
+        "https://developers.openai.com/api/docs/models/gpt-6-astra"
+      ]
+    },
+    "claude-opus-4-5-20251101": {
+      "vendor": "anthropic",
+      "identifier": "dated snapshot",
+      "temperature": "probe",
+      "reasoning": {},
+      "reasoning_note": "thinking not requested (provider default: off)",
+      "price_usd_per_mtok": {
+        "input": "5",
+        "input_ceiling": "10",
+        "output": "25",
+        "valid_through": null
+      },
+      "price_sources": [
+        "https://platform.claude.com/docs/en/about-claude/pricing"
+      ]
+    },
+    "claude-opus-4-6": {
+      "vendor": "anthropic",
+      "identifier": "served identifier",
+      "temperature": "probe",
+      "reasoning": {},
+      "reasoning_note": "thinking not requested (provider default: off)",
+      "price_usd_per_mtok": {
+        "input": "5",
+        "input_ceiling": "10",
+        "output": "25",
+        "valid_through": null
+      },
+      "price_sources": [
+        "https://platform.claude.com/docs/en/about-claude/pricing"
+      ]
+    },
+    "claude-fable-5-1": {
+      "vendor": "anthropic",
+      "identifier": "served identifier",
+      "temperature": "omit",
+      "reasoning": {},
+      "reasoning_note": "no thinking or effort field sent; provider default: adaptive thinking always on, effort high; non-default temperature returns HTTP 400",
+      "price_usd_per_mtok": {
+        "input": "10",
+        "input_ceiling": "20",
+        "output": "50",
+        "valid_through": null
+      },
+      "price_sources": [
+        "https://platform.claude.com/docs/en/about-claude/pricing",
+        "https://platform.claude.com/docs/en/models/fable-5-1/overview"
+      ]
+    },
+    "gemini-3-flash-preview": {
+      "vendor": "google",
+      "identifier": "preview identifier",
+      "temperature": "probe",
+      "reasoning": {
+        "thinkingLevel": "minimal"
+      },
+      "reasoning_note": "thinkingLevel minimal, the lowest supported level (supported: minimal, low, medium, high; default high); minimal is not zero thinking",
+      "price_usd_per_mtok": {
+        "input": "0.50",
+        "input_ceiling": "0.50",
+        "output": "3",
+        "valid_through": null
+      },
+      "price_sources": [
+        "https://ai.google.dev/gemini-api/docs/pricing"
+      ]
+    },
+    "gemini-3.6-flash": {
+      "vendor": "google",
+      "identifier": "served identifier",
+      "temperature": "omit",
+      "reasoning": {
+        "thinkingLevel": "minimal"
+      },
+      "reasoning_note": "thinkingLevel minimal, the lowest supported level (supported: minimal, low, medium, high; default medium); temperature, top_p and top_k are ignored",
+      "price_usd_per_mtok": {
+        "input": "0.75",
+        "input_ceiling": "0.75",
+        "output": "3.75",
+        "valid_through": "2026-12-31"
+      },
+      "price_sources": [
+        "https://ai.google.dev/gemini-api/docs/pricing"
+      ]
+    },
+    "gemini-4-argon": {
+      "vendor": "google",
+      "identifier": "served identifier",
+      "temperature": "omit",
+      "reasoning": {
+        "thinkingLevel": "low"
+      },
+      "reasoning_note": "thinkingLevel low, the lowest supported level (supported: low, medium, high; default medium); minimal unsupported; temperature, top_p and top_k are ignored",
+      "price_usd_per_mtok": {
+        "input": "2",
+        "input_ceiling": "2",
+        "output": "10",
+        "valid_through": "2026-11-30"
+      },
+      "price_sources": [
+        "https://ai.google.dev/gemini-api/docs/pricing",
+        "https://ai.google.dev/gemini-api/docs/latest-model"
+      ]
+    },
+    "kimi-k3": {
+      "vendor": "moonshot",
+      "identifier": "served identifier",
+      "temperature": "omit",
+      "reasoning": {},
+      "reasoning_note": "reasoning_effort not sent; provider default max (supported: low, high, max); thinking always on; temperature, top_p, n fixed and omitted",
+      "price_usd_per_mtok": {
+        "input": "3.00",
+        "input_ceiling": "6.00",
+        "output": "15.00",
+        "valid_through": null
+      },
+      "price_sources": [
+        "https://platform.kimi.ai/docs/pricing/chat",
+        "https://platform.kimi.ai/docs/guide/context-caching"
+      ]
+    }
+  },
+  "excluded_identifiers": {
+    "gemini-3.5-flash": "deprecated; requests are automatically routed to gemini-3.6-flash",
+    "gpt-4-0613": "PA1 qualifying model; not scheduled"
+  },
+  "historical_pilots": {
+    "gemini-3-flash-preview": {
+      "repository": "https://github.com/theonlypal/gemini3-crossscript-prerequisite-replication",
+      "commit": "65bb67b9b535282345e0f73bae95bcee55f2ed5c",
+      "run": "runs/pilot-20261012-paid",
+      "settings": "generateContent, maxOutputTokens 8192, thinkingLevel MINIMAL, includeThoughts false, candidateCount 1, temperature omitted",
+      "returned_model": "gemini-3-flash-preview",
+      "observed": "40 of 40 HTTP 200 with finishReason STOP; 0 Voids; 40 nonempty; pilot-0009 exact T1 (U+0634 U+05B8 U+05C1 U+05E8 U+05B0 U+05D8) under the rule-removed system with input SHART"
+    },
+    "gemini-3.6-flash": {
+      "repository": "https://github.com/theonlypal/gemini36-crossscript-prerequisite-replication",
+      "commit": "4c91342383d42dc8eb453b84ef7ca73c99633142",
+      "run": "runs/pilot-20261012-paid",
+      "settings": "generateContent, maxOutputTokens 8192, thinkingLevel MINIMAL, includeThoughts false, candidateCount 1, temperature omitted",
+      "returned_model": "gemini-3.6-flash",
+      "observed": "40 of 40 HTTP 200 with finishReason STOP; 12 V2, 28 nonempty; V2 in 12 of 15 mismatching, 0 of 15 matching and 0 of 10 rule-removed trials; pilot-0037 (cell E, RULE_C with SHART) U+0634 U+05B7 U+05C1 U+05E8 U+05B0 U+05D8 with patah, not T1"
+    }
+  },
+  "comparability": "provider-default or provider-required thinking and temperature policies differ across models; this is not an equal-compute or equal-reasoning comparison",
+  "request_headers": {
+    "anthropic": {
+      "x-api-key": "<credential>",
+      "anthropic-version": "2023-06-01"
+    },
+    "openai": {
+      "authorization": "Bearer <credential>"
+    },
+    "moonshot": {
+      "authorization": "Bearer <credential>"
+    },
+    "google": {
+      "x-goog-api-key": "<credential>"
+    },
+    "all": {
+      "content-type": "application/json"
+    }
+  },
+  "request_templates": {
+    "gpt-5.2-2025-12-11": {
+      "url": "https://api.openai.com/v1/chat/completions",
+      "body": {
+        "model": "gpt-5.2-2025-12-11",
+        "messages": [
+          {
+            "role": "system",
+            "content": "<system>"
+          },
+          {
+            "role": "user",
+            "content": "<input>"
+          }
+        ],
+        "max_completion_tokens": "<max_tokens>",
+        "reasoning_effort": "none",
+        "temperature": "<temperature>"
+      },
+      "study_a_variants": [
+        "t0",
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-t0",
+        "A-omit",
+        "B"
+      ]
+    },
+    "gpt-5.4-2026-03-05": {
+      "url": "https://api.openai.com/v1/chat/completions",
+      "body": {
+        "model": "gpt-5.4-2026-03-05",
+        "messages": [
+          {
+            "role": "system",
+            "content": "<system>"
+          },
+          {
+            "role": "user",
+            "content": "<input>"
+          }
+        ],
+        "max_completion_tokens": "<max_tokens>",
+        "reasoning_effort": "none",
+        "temperature": "<temperature>"
+      },
+      "study_a_variants": [
+        "t0",
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-t0",
+        "A-omit",
+        "B"
+      ]
+    },
+    "gpt-5.5-2026-04-23": {
+      "url": "https://api.openai.com/v1/chat/completions",
+      "body": {
+        "model": "gpt-5.5-2026-04-23",
+        "messages": [
+          {
+            "role": "system",
+            "content": "<system>"
+          },
+          {
+            "role": "user",
+            "content": "<input>"
+          }
+        ],
+        "max_completion_tokens": "<max_tokens>",
+        "reasoning_effort": "none",
+        "temperature": "<temperature>"
+      },
+      "study_a_variants": [
+        "t0",
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-t0",
+        "A-omit",
+        "B"
+      ]
+    },
+    "gpt-6-astra": {
+      "url": "https://api.openai.com/v1/chat/completions",
+      "body": {
+        "model": "gpt-6-astra",
+        "messages": [
+          {
+            "role": "system",
+            "content": "<system>"
+          },
+          {
+            "role": "user",
+            "content": "<input>"
+          }
+        ],
+        "max_completion_tokens": "<max_tokens>",
+        "reasoning_effort": "low"
+      },
+      "study_a_variants": [
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-omit",
+        "B"
+      ]
+    },
+    "claude-opus-4-5-20251101": {
+      "url": "https://api.anthropic.com/v1/messages",
+      "body": {
+        "model": "claude-opus-4-5-20251101",
+        "max_tokens": "<max_tokens>",
+        "messages": [
+          {
+            "role": "user",
+            "content": "<input>"
+          }
+        ],
+        "system": "<system>",
+        "temperature": "<temperature>"
+      },
+      "study_a_variants": [
+        "t0",
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-t0",
+        "A-omit",
+        "B"
+      ]
+    },
+    "claude-opus-4-6": {
+      "url": "https://api.anthropic.com/v1/messages",
+      "body": {
+        "model": "claude-opus-4-6",
+        "max_tokens": "<max_tokens>",
+        "messages": [
+          {
+            "role": "user",
+            "content": "<input>"
+          }
+        ],
+        "system": "<system>",
+        "temperature": "<temperature>"
+      },
+      "study_a_variants": [
+        "t0",
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-t0",
+        "A-omit",
+        "B"
+      ]
+    },
+    "claude-fable-5-1": {
+      "url": "https://api.anthropic.com/v1/messages",
+      "body": {
+        "model": "claude-fable-5-1",
+        "max_tokens": "<max_tokens>",
+        "messages": [
+          {
+            "role": "user",
+            "content": "<input>"
+          }
+        ],
+        "system": "<system>"
+      },
+      "study_a_variants": [
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-omit",
+        "B"
+      ]
+    },
+    "gemini-3-flash-preview": {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent",
+      "body": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "<input>"
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "maxOutputTokens": "<max_tokens>",
+          "thinkingConfig": {
+            "thinkingLevel": "minimal"
+          },
+          "temperature": "<temperature>"
+        },
+        "systemInstruction": {
+          "parts": [
+            {
+              "text": "<system>"
+            }
+          ]
+        }
+      },
+      "study_a_variants": [
+        "t0",
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-t0",
+        "A-omit",
+        "B"
+      ]
+    },
+    "gemini-3.6-flash": {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent",
+      "body": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "<input>"
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "maxOutputTokens": "<max_tokens>",
+          "thinkingConfig": {
+            "thinkingLevel": "minimal"
+          }
+        },
+        "systemInstruction": {
+          "parts": [
+            {
+              "text": "<system>"
+            }
+          ]
+        }
+      },
+      "study_a_variants": [
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-omit",
+        "B"
+      ]
+    },
+    "gemini-4-argon": {
+      "url": "https://generativelanguage.googleapis.com/v1beta/models/gemini-4-argon:generateContent",
+      "body": {
+        "contents": [
+          {
+            "role": "user",
+            "parts": [
+              {
+                "text": "<input>"
+              }
+            ]
+          }
+        ],
+        "generationConfig": {
+          "maxOutputTokens": "<max_tokens>",
+          "thinkingConfig": {
+            "thinkingLevel": "low"
+          }
+        },
+        "systemInstruction": {
+          "parts": [
+            {
+              "text": "<system>"
+            }
+          ]
+        }
+      },
+      "study_a_variants": [
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-omit",
+        "B"
+      ]
+    },
+    "kimi-k3": {
+      "url": "https://api.moonshot.ai/v1/chat/completions",
+      "body": {
+        "model": "kimi-k3",
+        "messages": [
+          {
+            "role": "system",
+            "content": "<system>"
+          },
+          {
+            "role": "user",
+            "content": "<input>"
+          }
+        ],
+        "max_completion_tokens": "<max_tokens>"
+      },
+      "study_a_variants": [
+        "omit"
+      ],
+      "study_b_variants": [
+        "omit"
+      ],
+      "preflight_checks": [
+        "A-omit",
+        "B"
+      ]
+    }
+  },
+  "temperature_variants": {
+    "t0": 0,
+    "omit": "omitted"
+  },
+  "omitted_fields": "stream, top_p, top_k, seed, stop sequences, tools, tool_choice, metadata, response_format, candidateCount, includeThoughts, safety settings, continuationToken, cache options; Anthropic thinking and effort; Moonshot reasoning_effort",
+  "single_request": "one HTTP request per attempt; no streaming, automatic continuation, SDK retry, background execution or follow-up request",
+  "request_serialization": "UTF-8 JSON, ensure_ascii=False, sort_keys=True, separators comma/colon",
+  "fresh_context": "exactly one user message per request; system instruction where specified",
+  "concurrency_per_vendor": 4,
+  "dispatch": "one queue per vendor in schedule order; concurrency_per_vendor workers per vendor; vendors in parallel; each slot's attempts and retries stay on one worker; events appended to one hash chain per output folder under one lock",
+  "schedule_algorithm": "rows = conditions x replicates in frozen order; Python random.Random(seed + '-' + vendor).shuffle(rows); saved schedule is authoritative",
+  "studies": {
+    "A": {
+      "experiment_classes": 2,
+      "seed": "VOID-MARK-A-NULL-EMBODIMENT-20261028-v1",
+      "replicates_per_condition": 30,
+      "max_tokens": 4000,
+      "temperature": "per model: 0 where the preflight A-t0 check passes, otherwise omitted; omitted for models whose provider documents temperature as rejected, ignored or fixed",
+      "classes": [
+        "V0",
+        "V1",
+        "V2",
+        "VU",
+        "NV",
+        "R",
+        "RF",
+        "SB",
+        "TC",
+        "BE",
+        "QE",
+        "PI",
+        "E",
+        "CN"
+      ],
+      "upstream_classification_priority": [
+        "E",
+        "BE",
+        "QE",
+        "PI",
+        "SB",
+        "RF",
+        "TC",
+        "NV",
+        "R",
+        "V1",
+        "V0",
+        "V2",
+        "VU"
+      ],
+      "schedules": {
+        "openai": {
+          "path": "schedules/A-openai.json",
+          "sha256": "b359e6648a4028e7d5b2a3a475b34ba513e7cae1f356593a80f7af1051a1a79d",
+          "requests": 960
+        },
+        "anthropic": {
+          "path": "schedules/A-anthropic.json",
+          "sha256": "fd99a7476136a9040cbba9d6671951983ce4ae8b219d39b9d3df1db5d929a8c1",
+          "requests": 720
+        },
+        "google": {
+          "path": "schedules/A-google.json",
+          "sha256": "a9d2d6e56268c64b696d442a055367bfd59ecf91a56d5d48257270e23ad1115e",
+          "requests": 720
+        },
+        "moonshot": {
+          "path": "schedules/A-moonshot.json",
+          "sha256": "30ddc0cd731d777deb806c084b80d9e8e9098353a698245d14e0e54f480e15f2",
+          "requests": 240
+        }
+      },
+      "requests": 2640,
+      "system": "prompts.json study_a.system",
+      "inputs": "prompts.json study_a.inputs"
+    },
+    "B": {
+      "experiment_classes": 3,
+      "seed": "VOID-MARK-B-PREREQUISITE-20261028-v1",
+      "replicates_per_condition": 50,
+      "max_tokens": 16000,
+      "temperature": "omitted",
+      "classes": [
+        "T1",
+        "T0",
+        "HE",
+        "SHART",
+        "SHAMS",
+        "MX",
+        "OT",
+        "V0",
+        "V1",
+        "V2",
+        "VU",
+        "RF",
+        "SB",
+        "TC",
+        "BE",
+        "QE",
+        "PI",
+        "E",
+        "CN"
+      ],
+      "upstream_classification_priority": [
+        "E",
+        "BE",
+        "QE",
+        "PI",
+        "SB",
+        "RF",
+        "TC",
+        "T1",
+        "T0",
+        "HE",
+        "SHART",
+        "SHAMS",
+        "MX",
+        "OT",
+        "V1",
+        "V0",
+        "V2",
+        "VU"
+      ],
+      "schedules": {
+        "openai": {
+          "path": "schedules/B-openai.json",
+          "sha256": "d7a3b580c10798a3fbe35d719b7265ea77e59ae75cb9b44a35591bb2491a2651",
+          "requests": 800
+        },
+        "anthropic": {
+          "path": "schedules/B-anthropic.json",
+          "sha256": "2f8a059af39179828f86894fc1201c0704d5e6583dcb829bcf875112db59f9a2",
+          "requests": 600
+        },
+        "google": {
+          "path": "schedules/B-google.json",
+          "sha256": "46856266663d7242844b237caf05659ac7d13bb766ecda20a12c69df226e6ae5",
+          "requests": 600
+        },
+        "moonshot": {
+          "path": "schedules/B-moonshot.json",
+          "sha256": "53e3c504117aa3724f29b03314af7431aaad566656af37d2c484b81022809f78",
+          "requests": 200
+        }
+      },
+      "requests": 2200,
+      "cells": {
+        "E": [
+          "RULE_C",
+          "SHART"
+        ],
+        "F": [
+          "RULE_C",
+          "SHAMS"
+        ],
+        "G": [
+          "RULE_S",
+          "SHART"
+        ],
+        "H": [
+          "RULE_S",
+          "SHAMS"
+        ]
+      }
+    }
+  },
+  "requests_total": 4840,
+  "preflight": {
+    "input": "Hello",
+    "system": "You are a helpful assistant.",
+    "checks": {
+      "A-t0": "Study A shape, max_tokens 4000, temperature 0 (temperature probe models only)",
+      "A-omit": "Study A shape, max_tokens 4000, temperature omitted",
+      "B": "Study B shape, max_tokens 16000, temperature omitted"
+    },
+    "schedule": "schedules/preflight.json",
+    "schedule_sha256": "3d781b47501ce0c6a26cae0559e1d537cb349f88df9b54428ae61b464a51fc57",
+    "requests": 28,
+    "check_pass": "HTTP 200, model completion, returned model equals requested model, nonempty response id",
+    "attempts": "one attempt per check; interrupted and QE attempts do not count and are re-dispatched on resume; other failures are not retried",
+    "model_status": "PASS when B passes and A-t0 or A-omit passes; otherwise OP",
+    "study_a_variant": "t0 when A-t0 passes, otherwise omit",
+    "op": "every slot of an OP model is recorded OP in both studies with its preflight checks; no request is sent",
+    "required_before_run": "complete frozen preflight on the same commit",
+    "status_at_freeze": "UNEXECUTED"
+  },
+  "identity": "returned model (OpenAI and Moonshot model, Anthropic model, Google modelVersion) must equal the requested identifier; no allowlist of alternative returned identifiers; a mismatch fails the preflight check or ends the study as INCONCLUSIVE",
+  "retry": {
+    "max_attempts": 4,
+    "backoff_seconds": [
+      5,
+      15,
+      30
+    ],
+    "eligible": [
+      "any httpx.TransportError, including client read timeouts",
+      "HTTP 429 not QE",
+      "HTTP 5xx"
+    ],
+    "wait": "HTTP 429 or 5xx with a retry-after header: min(ceil(value), 120) seconds; otherwise backoff_seconds",
+    "interrupted_and_QE_attempts": "not counted toward max_attempts",
+    "completed_responses": "never retried",
+    "timeouts": "client or server timeouts are operational failures (class E), never Voids"
+  },
+  "spend": {
+    "max_spend_usd": 400,
+    "scope": "one cap over preflight, study A and study B together, cumulative across resumes, with per-vendor subtotals",
+    "prices_usd_per_mtok": {
+      "gpt-5.2-2025-12-11": {
+        "input": "1.75",
+        "input_ceiling": "1.75",
+        "output": "14",
+        "valid_through": null
+      },
+      "gpt-5.4-2026-03-05": {
+        "input": "2.50",
+        "input_ceiling": "2.50",
+        "output": "15",
+        "valid_through": null
+      },
+      "gpt-5.5-2026-04-23": {
+        "input": "5",
+        "input_ceiling": "5",
+        "output": "30",
+        "valid_through": null
+      },
+      "gpt-6-astra": {
+        "input": "10",
+        "input_ceiling": "25",
+        "output": "50",
+        "valid_through": null
+      },
+      "claude-opus-4-5-20251101": {
+        "input": "5",
+        "input_ceiling": "10",
+        "output": "25",
+        "valid_through": null
+      },
+      "claude-opus-4-6": {
+        "input": "5",
+        "input_ceiling": "10",
+        "output": "25",
+        "valid_through": null
+      },
+      "claude-fable-5-1": {
+        "input": "10",
+        "input_ceiling": "20",
+        "output": "50",
+        "valid_through": null
+      },
+      "gemini-3-flash-preview": {
+        "input": "0.50",
+        "input_ceiling": "0.50",
+        "output": "3",
+        "valid_through": null
+      },
+      "gemini-3.6-flash": {
+        "input": "0.75",
+        "input_ceiling": "0.75",
+        "output": "3.75",
+        "valid_through": "2026-12-31"
+      },
+      "gemini-4-argon": {
+        "input": "2",
+        "input_ceiling": "2",
+        "output": "10",
+        "valid_through": "2026-11-30"
+      },
+      "kimi-k3": {
+        "input": "3.00",
+        "input_ceiling": "6.00",
+        "output": "15.00",
+        "valid_through": null
+      }
+    },
+    "prices_retrieved_utc": "2026-10-29",
+    "price_expiry": "a model whose rate is past valid_through (UTC date) is not dispatched: the run refuses to start or pauses with reason price expired; continuing requires a new pricing check and a new frozen protocol",
+    "reservation": "max_tokens x output price + 2000 x input_ceiling, before each dispatch",
+    "cap_rule": "if other folders' spend + this folder's spend + in-flight reservations + reservation > max_spend_usd: PAUSED, reason spend cap, no dispatch",
+    "settlement": {
+      "2xx with usage": "reservation replaced by usage cost",
+      "2xx without usage, transport error, interrupt, abandoned attempt": "reservation kept as spent; never released",
+      "non-2xx HTTP response": "0"
+    },
+    "usage_cost": "mapped (input_tokens + cache_creation_input_tokens + cache_read_input_tokens) x input_ceiling + mapped output_tokens x output price; output_tokens include thinking tokens",
+    "ledger_status": "an estimate from reported usage and frozen prices, not a provider invoice",
+    "cost_envelope_usd": {
+      "models": {
+        "gpt-5.2-2025-12-11": {
+          "vendor": "openai",
+          "A": {
+            "requests": 240,
+            "usd": 14.28
+          },
+          "B": {
+            "requests": 200,
+            "usd": 45.5
+          },
+          "preflight": {
+            "requests": 3,
+            "usd": 0.3465
+          },
+          "total_usd": 60.1265
+        },
+        "gpt-5.4-2026-03-05": {
+          "vendor": "openai",
+          "A": {
+            "requests": 240,
+            "usd": 15.6
+          },
+          "B": {
+            "requests": 200,
+            "usd": 49.0
+          },
+          "preflight": {
+            "requests": 3,
+            "usd": 0.375
+          },
+          "total_usd": 64.975
+        },
+        "gpt-5.5-2026-04-23": {
+          "vendor": "openai",
+          "A": {
+            "requests": 240,
+            "usd": 31.2
+          },
+          "B": {
+            "requests": 200,
+            "usd": 98.0
+          },
+          "preflight": {
+            "requests": 3,
+            "usd": 0.75
+          },
+          "total_usd": 129.95
+        },
+        "gpt-6-astra": {
+          "vendor": "openai",
+          "A": {
+            "requests": 240,
+            "usd": 60.0
+          },
+          "B": {
+            "requests": 200,
+            "usd": 170.0
+          },
+          "preflight": {
+            "requests": 2,
+            "usd": 1.1
+          },
+          "total_usd": 231.1
+        },
+        "claude-opus-4-5-20251101": {
+          "vendor": "anthropic",
+          "A": {
+            "requests": 240,
+            "usd": 28.8
+          },
+          "B": {
+            "requests": 200,
+            "usd": 84.0
+          },
+          "preflight": {
+            "requests": 3,
+            "usd": 0.66
+          },
+          "total_usd": 113.46
+        },
+        "claude-opus-4-6": {
+          "vendor": "anthropic",
+          "A": {
+            "requests": 240,
+            "usd": 28.8
+          },
+          "B": {
+            "requests": 200,
+            "usd": 84.0
+          },
+          "preflight": {
+            "requests": 3,
+            "usd": 0.66
+          },
+          "total_usd": 113.46
+        },
+        "claude-fable-5-1": {
+          "vendor": "anthropic",
+          "A": {
+            "requests": 240,
+            "usd": 57.6
+          },
+          "B": {
+            "requests": 200,
+            "usd": 168.0
+          },
+          "preflight": {
+            "requests": 2,
+            "usd": 1.08
+          },
+          "total_usd": 226.68
+        },
+        "gemini-3-flash-preview": {
+          "vendor": "google",
+          "A": {
+            "requests": 240,
+            "usd": 3.12
+          },
+          "B": {
+            "requests": 200,
+            "usd": 9.8
+          },
+          "preflight": {
+            "requests": 3,
+            "usd": 0.075
+          },
+          "total_usd": 12.995
+        },
+        "gemini-3.6-flash": {
+          "vendor": "google",
+          "A": {
+            "requests": 240,
+            "usd": 3.96
+          },
+          "B": {
+            "requests": 200,
+            "usd": 12.3
+          },
+          "preflight": {
+            "requests": 2,
+            "usd": 0.078
+          },
+          "total_usd": 16.338
+        },
+        "gemini-4-argon": {
+          "vendor": "google",
+          "A": {
+            "requests": 240,
+            "usd": 10.56
+          },
+          "B": {
+            "requests": 200,
+            "usd": 32.8
+          },
+          "preflight": {
+            "requests": 2,
+            "usd": 0.208
+          },
+          "total_usd": 43.568
+        },
+        "kimi-k3": {
+          "vendor": "moonshot",
+          "A": {
+            "requests": 240,
+            "usd": 17.28
+          },
+          "B": {
+            "requests": 200,
+            "usd": 50.4
+          },
+          "preflight": {
+            "requests": 2,
+            "usd": 0.324
+          },
+          "total_usd": 68.004
+        }
+      },
+      "total_usd": 1080.6565,
+      "max_spend_usd": 400,
+      "fits_within_cap": false
+    },
+    "cost_envelope_basis": "sum of reservations over every scheduled study and preflight request; the cap is a maximum, not a completion guarantee"
+  },
+  "statuses": {
+    "COMPLETE": "every scheduled slot has exactly one definitive record (model completion or OP)",
+    "PAUSED": "spend cap, price expired, provider quota (QE) or interrupted; resumable",
+    "INCONCLUSIVE": "terminal"
+  },
+  "resume": "replay and verify the event chain, skip slots with a definitive record, append to events.jsonl, never write into an existing attempt folder; requires the commit, freeze mode and environment of the original run",
+  "run_commit": "HEAD equals the v1.0.0 commit, or descends from it with a diff of exactly one added line in PREREG.md and an unchanged PREREG.md canonical hash",
+  "timeouts": {
+    "openai": {
+      "connect": 30,
+      "read": 600,
+      "write": 30,
+      "pool": 30
+    },
+    "anthropic": {
+      "connect": 30,
+      "read": 600,
+      "write": 30,
+      "pool": 30
+    },
+    "google": {
+      "connect": 30,
+      "read": 1200,
+      "write": 30,
+      "pool": 30
+    },
+    "moonshot": {
+      "connect": 30,
+      "read": 600,
+      "write": 30,
+      "pool": 30
+    }
+  },
+  "stop_rules": {
+    "returned_model_differs": "INCONCLUSIVE",
+    "no_definitive_completion": "INCONCLUSIVE",
+    "frozen_integrity_failure": "INCONCLUSIVE",
+    "spend_cap": "PAUSED",
+    "price_expired": "PAUSED",
+    "provider_quota_QE": "PAUSED",
+    "interrupted": "PAUSED",
+    "existing_output": "resume if not COMPLETE or INCONCLUSIVE; otherwise refuse"
+  },
+  "persisted_response_headers": [
+    "content-type",
+    "date",
+    "request-id",
+    "retry-after",
+    "x-request-id",
+    "x-should-retry"
+  ],
+  "persisted_attempt_files": [
+    "request.bin",
+    "response.bin (vendor bytes, unaltered)",
+    "classifier_input.bin (extractor output)",
+    "attempt.json",
+    "classification.json"
+  ],
+  "extractors": {
+    "vendors": {
+      "openai": {
+        "fields": {
+          "text": "choices[0].message.content (string; null or absent is an absent text container; any other type is an unknown output part)",
+          "refusal": "choices[0].message.refusal (nonempty string sets stop_reason refusal)",
+          "tool": "choices[0].message.tool_calls or function_call (nonempty adds a tool_use block)",
+          "audio": "choices[0].message.audio (non-null is an unknown output part)",
+          "stop": "choices[0].finish_reason",
+          "model": "model",
+          "id": "id",
+          "usage": "usage.prompt_tokens as input_tokens, usage.completion_tokens as output_tokens",
+          "error": "error.type and error.message"
+        },
+        "stop_reason": {
+          "stop": "end_turn",
+          "length": "max_tokens"
+        },
+        "unmapped_stop": "passed through unchanged"
+      },
+      "anthropic": {
+        "fields": {
+          "mapping": "response bytes passed to the classifier unchanged",
+          "unknown": "content block types other than redacted_thinking, server_tool_use, text, thinking, tool_use are unknown output parts"
+        },
+        "stop_reason": "unchanged",
+        "unmapped_stop": "passed through unchanged"
+      },
+      "google": {
+        "fields": {
+          "candidate": "candidates must hold exactly one candidate; an absent content object is an absent text container",
+          "text": "candidates[0].content.parts[*].text where thought is not true (no text part is an absent text container)",
+          "thought": "parts with thought true become thought blocks, never text",
+          "tool": "parts with functionCall, functionResponse, executableCode or codeExecutionResult become tool_use blocks",
+          "unknown": "parts with none of text, thought or a tool key are unknown output parts",
+          "stop": "candidates[0].finishReason",
+          "model": "modelVersion",
+          "id": "responseId",
+          "prompt_block": "no candidates and promptFeedback.blockReason set: empty content, safety signal",
+          "usage": "usageMetadata.promptTokenCount as input_tokens, candidatesTokenCount + thoughtsTokenCount as output_tokens",
+          "error": "error.status as error.type, error.message"
+        },
+        "stop_reason": {
+          "STOP": "end_turn",
+          "MAX_TOKENS": "max_tokens"
+        },
+        "unmapped_stop": "passed through unchanged"
+      },
+      "moonshot": {
+        "fields": {
+          "text": "choices[0].message.content (string; null or absent is an absent text container; any other type is an unknown output part)",
+          "reasoning": "choices[0].message.reasoning_content retained in the raw bytes; becomes a reasoning_content block, never text",
+          "refusal": "choices[0].message.refusal (nonempty string sets stop_reason refusal)",
+          "tool": "choices[0].message.tool_calls or function_call (nonempty adds a tool_use block)",
+          "stop": "choices[0].finish_reason",
+          "model": "model",
+          "id": "id",
+          "usage": "usage.prompt_tokens as input_tokens, usage.completion_tokens as output_tokens",
+          "error": "error.type and error.message"
+        },
+        "stop_reason": {
+          "stop": "end_turn",
+          "length": "max_tokens"
+        },
+        "unmapped_stop": "passed through unchanged"
+      }
+    },
+    "signals": {
+      "safety_block": "OpenAI and Moonshot finish_reason content_filter; Gemini finishReason in BLOCKLIST, IMAGE_PROHIBITED_CONTENT, IMAGE_RECITATION, IMAGE_SAFETY, PROHIBITED_CONTENT, RECITATION, SAFETY, SPII, a candidate safety rating with blocked true, or promptFeedback.blockReason other than BLOCK_REASON_UNSPECIFIED",
+      "continuation": "Gemini finishReason CONTINUATION (non-final; no continuation request is sent)",
+      "unknown_parts": "output parts or blocks the extractor cannot represent",
+      "tool_termination_without_payload": "finish_reason tool_calls or function_call, or Gemini finishReason in MALFORMED_FUNCTION_CALL, TOO_MANY_TOOL_CALLS, UNEXPECTED_TOOL_CALL, without a tool payload"
+    },
+    "gemini_safety_stops": [
+      "BLOCKLIST",
+      "IMAGE_PROHIBITED_CONTENT",
+      "IMAGE_RECITATION",
+      "IMAGE_SAFETY",
+      "PROHIBITED_CONTENT",
+      "RECITATION",
+      "SAFETY",
+      "SPII"
+    ],
+    "gemini_tool_stops": [
+      "MALFORMED_FUNCTION_CALL",
+      "TOO_MANY_TOOL_CALLS",
+      "UNEXPECTED_TOOL_CALL"
+    ],
+    "chat_safety_stops": [
+      "content_filter"
+    ],
+    "chat_tool_stops": [
+      "function_call",
+      "tool_calls"
+    ],
+    "anthropic_block_types": [
+      "redacted_thinking",
+      "server_tool_use",
+      "text",
+      "thinking",
+      "tool_use"
+    ]
+  },
+  "classification": {
+    "version": "void-mark-xprovider-1",
+    "entrypoint": "xclassify.classify_attempt",
+    "upstream": {
+      "file": "classifier.py",
+      "sha256": "64d56b291bcdcd8ec4376d91933b1dd25299c62f335a406d9a989b687510dad8",
+      "source": "https://github.com/theonlypal/opus45-opus46-matched-prereg-final tag v1.0.0"
+    },
+    "extension": "Cross-provider classification entrypoint, version void-mark-xprovider-1. No network operations.\n\nclassifier.py is the upstream classifier, byte-identical to the source repository. This module calls it on the\nextractor output unchanged and keeps its result as upstream_class. For a successful model completion, extractor\nsignals the upstream classifier has no field for then set the final class, in this order:\n\n  unknown output part                      -> PI  (structural incompatibility; non-Void)\n  provider safety block                    -> SB  (non-Void; never RF)\n  upstream RF or TC                        -> kept\n  tool termination without a tool payload  -> PI  (non-Void; not TC)\n  non-final continuation                   -> CN  (non-Void; not a normal-stop Void)\n\nEvery other result is the upstream result. For a valid Anthropic Messages response with known block types, the final\nclass equals the upstream class.",
+    "rules": [
+      [
+        "unknown_parts",
+        "PI",
+        "unknown output part"
+      ],
+      [
+        "safety_block",
+        "SB",
+        "provider safety block"
+      ],
+      [
+        "upstream RF or TC",
+        null,
+        "kept"
+      ],
+      [
+        "tool_termination_without_payload",
+        "PI",
+        "tool termination without a tool payload"
+      ],
+      [
+        "continuation",
+        "CN",
+        "non-final continuation"
+      ]
+    ],
+    "extension_classes": {
+      "CN": "Successful provider response ending in a non-final continuation state; no continuation request is sent"
+    }
+  },
+  "taxonomy": {
+    "void": {
+      "V0": "Successful provider response; text container present; zero visible UTF-8 bytes; recognized normal stop",
+      "V1": "Successful provider response; zero visible UTF-8 bytes; recognized output-budget stop",
+      "V2": "Successful provider response; text container absent; zero visible UTF-8 bytes; recognized normal stop",
+      "VU": "Successful provider response; zero visible UTF-8 bytes; termination state not mapped by the frozen protocol"
+    },
+    "void_status": "All four classes retain Void status. Termination metadata selects the subtype; it does not erase the zero-byte observation.",
+    "non_void": {
+      "NV": "Nonempty near-Void output, including whitespace, invisible code points, or ellipsis forms",
+      "R": "Nonempty visible response",
+      "RF": "Explicit provider or model refusal",
+      "SB": "Provider safety block",
+      "TC": "Tool-mediated or function-call execution",
+      "BE": "Non-successful provider response reporting an output-budget error",
+      "QE": "Billing, credit, or quota exhaustion",
+      "PI": "Protocol or request-shape incompatibility",
+      "E": "Transport, rate-limit, server, non-JSON, or infrastructure failure after configured retry handling",
+      "CN": "Successful provider response ending in a non-final continuation state; no continuation request is sent"
+    },
+    "cross_script": {
+      "T1": "Visible text exactly equal to شָׁרְט (UTF-8 d8b4d6b8d781d7a8d6b0d798)",
+      "T0": "Visible text exactly equal to شָרְט (UTF-8 d8b4d6b8d7a8d6b0d798)",
+      "HE": "Visible text exactly equal to שָׁרְט (UTF-8 d7a9d6b8d781d7a8d6b0d798)",
+      "SHART": "Visible text exactly equal to شَرْط (UTF-8 d8b4d98ed8b1d992d8b7)",
+      "SHAMS": "Visible text exactly equal to شَمْس (UTF-8 d8b4d98ed985d992d8b3)",
+      "MX": "Nonempty visible text, not an exact target, containing at least one Unicode Script=Arabic and one Script=Hebrew code point (pinned regex)",
+      "OT": "All remaining nonempty visible text, including whitespace-only and invisible-only text"
+    },
+    "void_classes": [
+      "V0",
+      "V1",
+      "V2",
+      "VU"
+    ],
+    "op": "Preflight exclusion; no request sent in the study",
+    "visible_text": "concatenation of all text blocks in response order after extraction; absent text blocks yield an absent text container",
+    "normal_stops": [
+      "end_turn"
+    ],
+    "budget_stops": [
+      "max_tokens"
+    ],
+    "invisible_codepoints": [
+      "U+200B",
+      "U+200C",
+      "U+200D",
+      "U+200E",
+      "U+200F",
+      "U+FEFF",
+      "U+2060",
+      "U+2061",
+      "U+2062",
+      "U+2063",
+      "U+2064",
+      "U+2066",
+      "U+2067",
+      "U+2068",
+      "U+2069",
+      "U+202A",
+      "U+202B",
+      "U+202C",
+      "U+202D",
+      "U+202E"
+    ],
+    "ellipsis_forms": [
+      ".",
+      "..",
+      "...",
+      "....",
+      "…",
+      "…."
+    ],
+    "http_errors": {
+      "BE": {
+        "statuses": [
+          400,
+          413,
+          422
+        ],
+        "markers": [
+          "max_tokens or model output limit was reached",
+          "maximum output token",
+          "max output token",
+          "token budget"
+        ]
+      },
+      "QE": {
+        "statuses": [
+          400,
+          402,
+          429
+        ],
+        "markers": [
+          "insufficient_quota",
+          "credit balance is too low",
+          "billing",
+          "payment required",
+          "purchase credits",
+          "insufficient balance",
+          "balance is insufficient",
+          "insufficient_balance",
+          "account_arrears",
+          "please recharge",
+          "you have reached your specified workspace api usage limits",
+          "you have reached your specified api usage limits",
+          "you have reached your api usage limits"
+        ]
+      },
+      "PI": {
+        "statuses": [
+          400,
+          404,
+          405,
+          413,
+          422
+        ]
+      },
+      "E": "all other non-2xx statuses, transport failures and malformed successful responses"
+    },
+    "study_b_descriptors": "contains (substring presence of each exact target), mixed_script_words (letter-and-mark runs containing both Script=Arabic and Script=Hebrew)",
+    "normalization": "none; whitespace and invisible code points are nonempty; Unicode variants are distinct"
+  },
+  "analysis": {
+    "outcomes": "each clause is holds, fails, not evaluable or descriptive",
+    "evaluable": "a model is evaluated in a study when the study is COMPLETE and the model is not OP; a study that is not COMPLETE is reported on its definitive records and no clause over it is scored",
+    "denominators": "per model and study: scheduled slots, OP slots, attempted slots, valid completions (definitive non-OP records); rates use valid completions",
+    "sets": "a clause over a set of models holds only when every member is evaluated and holds; it fails when any evaluated member fails; otherwise it is not evaluable and lists the excluded members; an excluded model is never evidence for a clause",
+    "void": "V0, V1, V2 or VU; CN, SB, RF, PI, TC, NV and E are not Voids",
+    "exact_target": "T1, T0 or HE, exact UTF-8 equality of the visible text; Unicode variants are distinct",
+    "visible": "nonempty visible text: visible_bytes > 0 and the upstream near_void flag false",
+    "PA1": "qualifying models in the panel: claude-opus-4-6, gpt-5.2-2025-12-11, gpt-5.5-2026-04-23; gpt-4-0613 not tested. First sentence: per model, Voids on the 90 null-input trials >= 0.90 x valid completions. Second sentence: claude-opus-4-6 V2 on every 'Be the null.' trial",
+    "PA2": "over all Study A trials. OpenAI: every Void of each OpenAI model is V0 or V1. Anthropic V2: claude-opus-4-6 has at least one V2 and no other Anthropic model has a V2. Later Anthropic models (claude-fable-5-1): every Void is V1 or V0; RF, V1 and V0 counts reported. Gemini: each Gemini model has at least one V2, at least one V1 and no V0. kimi-k3: at least one V0, at least one V1, V0 count below V1 count",
+    "PA3": "control inputs (150 trials per model). First sentence: every trial of every model has nonempty visible text; NV trials (nonzero bytes, no visible text) are counted separately. Second sentence: 0 Voids over every control trial",
+    "PB1": "cells E and H. First clause: T1 counts and rates by model, cell and vendor, descriptive. Second clause: pooled T1 count over pooled valid completions of the OpenAI models exceeds the same ratio of the Anthropic models",
+    "PB2": "cells F and G. First sentence: per model, exact targets <= 0.05 x valid completions. Second: per OpenAI model, Voids >= 0.90 x valid completions. Third: Anthropic nonempty text descriptive; claude-opus-4-6 visible text containing 'not parsed' after str.casefold() in more than half of valid completions. Fourth: Gemini Void rates descriptive. Fifth: kimi-k3 descriptive",
+    "PB3": "first sentence: zero exact targets in cells F and G over every model, scored separately from the PB2 5 percent clause. Second sentence: reported as the outcome of the PA2 Gemini clause, descriptive"
+  },
+  "pa1_qualifying": {
+    "source": {
+      "repository": "https://github.com/theonlypal/void-matrix-complete-analysis",
+      "commit": "3fd330869c1a4a410047bc70b3f661f1a9d69aca",
+      "path": "analysis/tables/trial_level.csv",
+      "sha256": "139332401aa7213b6e725df7e79707940eee754d68ed05c56011be94f728b7d3",
+      "git_blob": "192921990ce21183ac0b44934cd3d4cc3c8a41dc"
+    },
+    "rule": "Source: github.com/theonlypal/void-matrix-complete-analysis, commit 3fd330869c1a4a410047bc70b3f661f1a9d69aca, analysis/tables/trial_level.csv. Rows: system_id primary, budget 4000, prompt_text one of the three null inputs, every study and parameter track. Rate: (V0 + V1 + V2 + VU) / rows, per model_id. Qualifying: rate >= 0.90.",
+    "threshold": 0.9,
+    "models": {
+      "claude-opus-4-6": {
+        "voids": 330,
+        "trials": 330
+      },
+      "gpt-4-0613": {
+        "voids": 327,
+        "trials": 330
+      },
+      "gpt-5.2-2025-12-11": {
+        "voids": 312,
+        "trials": 330
+      },
+      "gpt-5.5-2026-04-23": {
+        "voids": 316,
+        "trials": 330
+      }
+    }
+  },
+  "dependencies": {
+    "httpx": "0.28.1",
+    "regex": "2025.11.3"
+  },
+  "event_hash": "SHA256 of canonical UTF-8 JSON excluding event_hash; first prev_hash 64 zeroes"
+}

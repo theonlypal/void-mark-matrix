@@ -1,0 +1,6002 @@
+[
+  {
+    "slot_id": "B-google-00001",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00002",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00003",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00004",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00005",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00006",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00007",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00008",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00009",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00010",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00011",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00012",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00013",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00014",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00015",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00016",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00017",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00018",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00019",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00020",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00021",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00022",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00023",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00024",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00025",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00026",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00027",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00028",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00029",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00030",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00031",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00032",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00033",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00034",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00035",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00036",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00037",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00038",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00039",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00040",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00041",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00042",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00043",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00044",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00045",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00046",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00047",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00048",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00049",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00050",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00051",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00052",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00053",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00054",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00055",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00056",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00057",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00058",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00059",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00060",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00061",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00062",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00063",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00064",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00065",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00066",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00067",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00068",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00069",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00070",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00071",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00072",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00073",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00074",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00075",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00076",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00077",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00078",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00079",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00080",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00081",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00082",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00083",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00084",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00085",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00086",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00087",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00088",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00089",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00090",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00091",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00092",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00093",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00094",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00095",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00096",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00097",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00098",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00099",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00100",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00101",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00102",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00103",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00104",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00105",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00106",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00107",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00108",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00109",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00110",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00111",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00112",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00113",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00114",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00115",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00116",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00117",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00118",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00119",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00120",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00121",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00122",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00123",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00124",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00125",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00126",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00127",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00128",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00129",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00130",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00131",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00132",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00133",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00134",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00135",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00136",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00137",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00138",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00139",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00140",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00141",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00142",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00143",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00144",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00145",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00146",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00147",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00148",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00149",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00150",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00151",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00152",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00153",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00154",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00155",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00156",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00157",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00158",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00159",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00160",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00161",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00162",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00163",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00164",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00165",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00166",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00167",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00168",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00169",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00170",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00171",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00172",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00173",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00174",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00175",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00176",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00177",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00178",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00179",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00180",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00181",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00182",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00183",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00184",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00185",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00186",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00187",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00188",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00189",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00190",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00191",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00192",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00193",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00194",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00195",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00196",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00197",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00198",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00199",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00200",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00201",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00202",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00203",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00204",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00205",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00206",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00207",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00208",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00209",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00210",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00211",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00212",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00213",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00214",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00215",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00216",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00217",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00218",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00219",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00220",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00221",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00222",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00223",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00224",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00225",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00226",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00227",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00228",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00229",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00230",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00231",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00232",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00233",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00234",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00235",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00236",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00237",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00238",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00239",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00240",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00241",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00242",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00243",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00244",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00245",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00246",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00247",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00248",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00249",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00250",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00251",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00252",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00253",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00254",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00255",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00256",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00257",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00258",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00259",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00260",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00261",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00262",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00263",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00264",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00265",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00266",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00267",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00268",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00269",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00270",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00271",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00272",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00273",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00274",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00275",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00276",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00277",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00278",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00279",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00280",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00281",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00282",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00283",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00284",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00285",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00286",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00287",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00288",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00289",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00290",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00291",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00292",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00293",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00294",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00295",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00296",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00297",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00298",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00299",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00300",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00301",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00302",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00303",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00304",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00305",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00306",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00307",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00308",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00309",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00310",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00311",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00312",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00313",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00314",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00315",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00316",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00317",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00318",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00319",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00320",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00321",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00322",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00323",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00324",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00325",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00326",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00327",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00328",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00329",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00330",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00331",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00332",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00333",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00334",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00335",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00336",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00337",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00338",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00339",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00340",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00341",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00342",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00343",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00344",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00345",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00346",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00347",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00348",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00349",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00350",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00351",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00352",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00353",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00354",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00355",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00356",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00357",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00358",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00359",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00360",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00361",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00362",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00363",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00364",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00365",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00366",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00367",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00368",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00369",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00370",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00371",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00372",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00373",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00374",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00375",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00376",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00377",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00378",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00379",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00380",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00381",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00382",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00383",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00384",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00385",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00386",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00387",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00388",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00389",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00390",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00391",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00392",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00393",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00394",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00395",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00396",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00397",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00398",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00399",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00400",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00401",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00402",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00403",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00404",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00405",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00406",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00407",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00408",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00409",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00410",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00411",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00412",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00413",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00414",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00415",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00416",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00417",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00418",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00419",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00420",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00421",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00422",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00423",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00424",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00425",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00426",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00427",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00428",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00429",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00430",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00431",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00432",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00433",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00434",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00435",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00436",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00437",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00438",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00439",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00440",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00441",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00442",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00443",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00444",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00445",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00446",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00447",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00448",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00449",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00450",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 35,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00451",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00452",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00453",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00454",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00455",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00456",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00457",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00458",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00459",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00460",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00461",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00462",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00463",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00464",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 8,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00465",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00466",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00467",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00468",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00469",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00470",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00471",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00472",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00473",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00474",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00475",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00476",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00477",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00478",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00479",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00480",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00481",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00482",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00483",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00484",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00485",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00486",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00487",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00488",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 36,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00489",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00490",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00491",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00492",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00493",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00494",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00495",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00496",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00497",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00498",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00499",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00500",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00501",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00502",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00503",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 41,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00504",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00505",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00506",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00507",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00508",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00509",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00510",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00511",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00512",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00513",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00514",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00515",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00516",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 5,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00517",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00518",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00519",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00520",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00521",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 11,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00522",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00523",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 4,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00524",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 7,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00525",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00526",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00527",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00528",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 31,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00529",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00530",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00531",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00532",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00533",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00534",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00535",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 38,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00536",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00537",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00538",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 30,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00539",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 42,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00540",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 18,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00541",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00542",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 15,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00543",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00544",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00545",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00546",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00547",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00548",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 32,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00549",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 34,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00550",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00551",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 43,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00552",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 10,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00553",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00554",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 2,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00555",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00556",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 49,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00557",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 50,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00558",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 45,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00559",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 25,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00560",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 40,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00561",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00562",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00563",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00564",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "H",
+    "replicate": 20,
+    "request_sha256": {
+      "omit": "65f3a29d1086885d6537d5e1c21840a73cc9c1a3ed1aed88d422455e112cc29c"
+    }
+  },
+  {
+    "slot_id": "B-google-00565",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00566",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 24,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00567",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 27,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00568",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00569",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "E",
+    "replicate": 33,
+    "request_sha256": {
+      "omit": "1f383a7eb19ea0b1fa757924d7387b01f370218b588dacaf01ef40a196bc7dde"
+    }
+  },
+  {
+    "slot_id": "B-google-00570",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00571",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 17,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00572",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00573",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00574",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 19,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00575",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 37,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00576",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 23,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00577",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 3,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00578",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00579",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00580",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 26,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00581",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 16,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00582",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "E",
+    "replicate": 48,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00583",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 29,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00584",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 14,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00585",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 21,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00586",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00587",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 47,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00588",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 46,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00589",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00590",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "G",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "a7b27cd995128e0c6cfbdbfa7bfee5298f8b3c6b30c06a2c7971abc5188994bc"
+    }
+  },
+  {
+    "slot_id": "B-google-00591",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "F",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00592",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "G",
+    "replicate": 44,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00593",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "H",
+    "replicate": 28,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00594",
+    "vendor": "google",
+    "model": "gemini-4-argon",
+    "cell": "F",
+    "replicate": 12,
+    "request_sha256": {
+      "omit": "fbd9be276c7378c31767c16b7f89dd416523b573c4c3c9b527cc0fc896131ca6"
+    }
+  },
+  {
+    "slot_id": "B-google-00595",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 6,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  },
+  {
+    "slot_id": "B-google-00596",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "F",
+    "replicate": 9,
+    "request_sha256": {
+      "omit": "84891b55b6b7f7c79f9d93acee987a651b3b884d532e24a276dcb2ff62b4bcbc"
+    }
+  },
+  {
+    "slot_id": "B-google-00597",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 1,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00598",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "G",
+    "replicate": 13,
+    "request_sha256": {
+      "omit": "775ecbc9857bad17b5a1b72a7f61b4d2c1844d1c9d552f90df6fe9ed9557a880"
+    }
+  },
+  {
+    "slot_id": "B-google-00599",
+    "vendor": "google",
+    "model": "gemini-3-flash-preview",
+    "cell": "E",
+    "replicate": 22,
+    "request_sha256": {
+      "omit": "3ed8db7abdd45542956abd0ea19fac9769a8be61b882f3f756a8d7bf4e2a701c"
+    }
+  },
+  {
+    "slot_id": "B-google-00600",
+    "vendor": "google",
+    "model": "gemini-3.6-flash",
+    "cell": "H",
+    "replicate": 39,
+    "request_sha256": {
+      "omit": "592d25f6731e6417121c47449884de6cdcc6f115f908fb2f935e02d5d0931fa1"
+    }
+  }
+]
